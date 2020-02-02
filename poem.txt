@@ -8,4 +8,4 @@ Green
 Indigo
 Yellow
 Red
-These are the colors of the rainbow and the unicorn.
+These are the colors of the rainbow and the unicorn, but not the pony.
